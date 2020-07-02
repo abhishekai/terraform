@@ -1,6 +1,6 @@
 ####################################################
 ## Define all required Variables for Dev Environment
-## Auther: abhishek.srivastava@atkinsglobal.com
+## Author: Abhishek Srivastava
 ####################################################
 
 project_name = "AssetsDetection"
